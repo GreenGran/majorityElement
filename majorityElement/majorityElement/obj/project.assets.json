@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\john\\Desktop\\GitHub\\repo\\majorityElement\\majorityElement\\majorityElement\\majorityElement.csproj",
+      "projectUniqueName": "C:\\Users\\john\\Desktop\\programing\\GitHub\\repo\\majorityElement\\majorityElement\\majorityElement\\majorityElement.csproj",
       "projectName": "majorityElement",
-      "projectPath": "C:\\Users\\john\\Desktop\\GitHub\\repo\\majorityElement\\majorityElement\\majorityElement\\majorityElement.csproj",
+      "projectPath": "C:\\Users\\john\\Desktop\\programing\\GitHub\\repo\\majorityElement\\majorityElement\\majorityElement\\majorityElement.csproj",
       "packagesPath": "C:\\Users\\john\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\john\\Desktop\\GitHub\\repo\\majorityElement\\majorityElement\\majorityElement\\obj\\",
+      "outputPath": "C:\\Users\\john\\Desktop\\programing\\GitHub\\repo\\majorityElement\\majorityElement\\majorityElement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\john\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+C:\Users\john\Desktop\programing\GitHub\repo\majorityElement\majorityElement\majorityElement\bin\Debug\netcoreapp3.1\majorityElement.exe
+C:\Users\john\Desktop\programing\GitHub\repo\majorityElement\majorityElement\majorityElement\bin\Debug\netcoreapp3.1\majorityElement.deps.json
+C:\Users\john\Desktop\programing\GitHub\repo\majorityElement\majorityElement\majorityElement\bin\Debug\netcoreapp3.1\majorityElement.runtimeconfig.json
+C:\Users\john\Desktop\programing\GitHub\repo\majorityElement\majorityElement\majorityElement\bin\Debug\netcoreapp3.1\majorityElement.runtimeconfig.dev.json
+C:\Users\john\Desktop\programing\GitHub\repo\majorityElement\majorityElement\majorityElement\bin\Debug\netcoreapp3.1\majorityElement.dll
+C:\Users\john\Desktop\programing\GitHub\repo\majorityElement\majorityElement\majorityElement\bin\Debug\netcoreapp3.1\majorityElement.pdb
+C:\Users\john\Desktop\programing\GitHub\repo\majorityElement\majorityElement\majorityElement\obj\Debug\netcoreapp3.1\majorityElement.csprojAssemblyReference.cache
+C:\Users\john\Desktop\programing\GitHub\repo\majorityElement\majorityElement\majorityElement\obj\Debug\netcoreapp3.1\majorityElement.AssemblyInfoInputs.cache
+C:\Users\john\Desktop\programing\GitHub\repo\majorityElement\majorityElement\majorityElement\obj\Debug\netcoreapp3.1\majorityElement.AssemblyInfo.cs
+C:\Users\john\Desktop\programing\GitHub\repo\majorityElement\majorityElement\majorityElement\obj\Debug\netcoreapp3.1\majorityElement.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\programing\GitHub\repo\majorityElement\majorityElement\majorityElement\obj\Debug\netcoreapp3.1\majorityElement.dll
+C:\Users\john\Desktop\programing\GitHub\repo\majorityElement\majorityElement\majorityElement\obj\Debug\netcoreapp3.1\majorityElement.pdb
+C:\Users\john\Desktop\programing\GitHub\repo\majorityElement\majorityElement\majorityElement\obj\Debug\netcoreapp3.1\majorityElement.genruntimeconfig.cache
